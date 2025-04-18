@@ -59,7 +59,7 @@ Let me know if you'd like a version for publishing on **Kaggle**, **Google Colab
 Assistant Lecturer – Rwanda Polytechnic, Tumba College  
 Founder & CEO – Mpuza Inc.  
 📧 yniyonshuti@rp.ac.rw  📧 info@mpuza.com 
-https://mpuza.com
+https://mpuza.com  https://www.linkedin.com/company/mpuza/?viewAsMember=true
 📞 +250 786 397 515
 CONTACT ME FOR ANY FURTHER EXPLANATION AND TECHNICAL SUPPORT
 ---
