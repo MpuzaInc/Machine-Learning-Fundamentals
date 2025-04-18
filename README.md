@@ -13,9 +13,9 @@ This Jupyter notebook demonstrates key data preprocessing techniques using a sma
   - Label Encoding
   - Binary Encoding
   - Target Encoding (with and without smoothing)
-- Feature scaling
-- Date/time feature extraction and transformation
-- Correlation analysis
+- Feature scaling (MinMax Scaler, Standard Scaler)
+- Date/time feature extraction and transformation and Cycling encoder( SINUS AND COSINE representation to detect the close betwen DECEMBER(12) AND JANUARY(1))
+- Correlation analysis And interpretation
 - Normality testing (e.g., Kolmogorov–Smirnov test)
 - Dropping irrelevant features
 
