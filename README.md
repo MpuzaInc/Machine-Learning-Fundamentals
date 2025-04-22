@@ -25,10 +25,22 @@ you are welcome to contribute to this repo if you are passionate to help others 
 
 ## 📁 Included Files
 
+- `BANK NOTE CLASSIFICATION` – Main notebook with all examples and explanations.
+- `BankNote_Authentication.xls` – Small dataset used from Kaggle platform.
+
+---
+# 🧼 2. CLASSIFICATION MODEL
+This project focuses on classifying banknotes as authentic or forged using machine learning algorithms. It uses a dataset containing features extracted from images of banknotes, including statistical properties like variance, skewness, kurtosis, and entropy.
+
+🧠 Models Used:
+K-Nearest Neighbor (KNN)
+Logistic Regression
+
+## 📁 Included Files
+
 - `data cleaning with syntetic data.ipynb` – Main notebook with all examples and explanations.
 - `Data.csv` – Small dataset created for teaching purposes.
 
----
 
 ## 💻 How to Run This Notebook Locally
 
