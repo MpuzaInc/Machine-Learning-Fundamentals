@@ -30,7 +30,7 @@ you are welcome to contribute to this repo if you are passionate to help others 
 
 ---
 # 🧼 2. CLASSIFICATION MODEL
-This project focuses on classifying banknotes as authentic or forged using machine learning algorithms. It uses a dataset containing features extracted from images of banknotes, including statistical properties like variance, skewness, kurtosis, and entropy.
+AS We learn by doing real project, This Bank note classification project focuses on classifying banknotes as authentic or forged using machine learning algorithms. It uses a dataset containing features extracted from images of banknotes, including statistical properties like variance, skewness, kurtosis, and entropy.
 
 🧠 Models Used:
 - K-Nearest Neighbor (KNN)
