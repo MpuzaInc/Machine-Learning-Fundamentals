@@ -25,8 +25,8 @@ you are welcome to contribute to this repo if you are passionate to help others 
 
 ## 📁 Included Files
 
-- `BANK NOTE CLASSIFICATION` – Main notebook with all examples and explanations.
-- `BankNote_Authentication.xls` – Small dataset used from Kaggle platform.
+- `data cleaning with syntetic data.ipynb` – Main notebook with all examples and explanations.
+- `Data.csv` – Small dataset created for teaching purposes.
 
 ---
 # 🧼 2. CLASSIFICATION MODEL
@@ -38,9 +38,8 @@ Logistic Regression
 
 ## 📁 Included Files
 
-- `data cleaning with syntetic data.ipynb` – Main notebook with all examples and explanations.
-- `Data.csv` – Small dataset created for teaching purposes.
-
+- `BANK NOTE CLASSIFICATION` – Main notebook with all examples and explanations.
+- `BankNote_Authentication.xls` – Small dataset used from Kaggle platform.
 
 ## 💻 How to Run This Notebook Locally
 
