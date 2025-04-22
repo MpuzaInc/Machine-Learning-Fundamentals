@@ -33,8 +33,8 @@ you are welcome to contribute to this repo if you are passionate to help others 
 This project focuses on classifying banknotes as authentic or forged using machine learning algorithms. It uses a dataset containing features extracted from images of banknotes, including statistical properties like variance, skewness, kurtosis, and entropy.
 
 🧠 Models Used:
-K-Nearest Neighbor (KNN)
-Logistic Regression
+- K-Nearest Neighbor (KNN)
+- Logistic Regression
 
 ## ✨ Covered Topics
 
