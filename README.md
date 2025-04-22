@@ -36,6 +36,18 @@ This project focuses on classifying banknotes as authentic or forged using machi
 K-Nearest Neighbor (KNN)
 Logistic Regression
 
+## ✨ Covered Topics
+
+- Choosing the best value of K to be used in KNN using K-fold Cross validation
+- training KNN MODEL
+- train Logistic Regression Model
+- Evaluation Metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+- Confusion Matrix
+
 ## 📁 Included Files
 
 - `BANK NOTE CLASSIFICATION` – Main notebook with all examples and explanations.
