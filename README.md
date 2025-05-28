@@ -53,6 +53,35 @@ AS We learn by doing real project, This Bank note classification project focuses
 - `BANK NOTE CLASSIFICATION` – Main notebook with all examples and explanations.
 - `BankNote_Authentication.xls` – Small dataset used from Kaggle platform.
 
+# 🌺 3. FLOWER IMAGE CLASSIFICATION MODEL USING CNN
+As we continue learning through real projects, this Flower Classification project uses a Convolutional Neural Network (CNN) to classify images into five flower types:
+
+### 🌼 Lilly 🌸 Lotus 🌺 Orchid 🌻 Sunflower 🌷 Tulip
+
+## 🧠 Model Used
+🧱 Custom CNN with 3 Convolutional Layers
+
+### ✨ Covered Topics
+🖼️ Image classification using CNN
+
+🛠️ Building & training a 3-layer CNN from scratch
+
+📊 Visualizing training accuracy and loss
+
+📈 Evaluation Metrics:
+
+✅ Accuracy
+
+🎯 Precision
+
+🔁 Recall
+
+🧮 F1 Score
+
+🔍 Confusion Matrix analysis
+
+
+
 ## 💻 How to Run This Notebook Locally
 
 ### 1️⃣ Prerequisites
