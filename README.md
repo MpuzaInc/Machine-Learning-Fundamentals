@@ -81,11 +81,64 @@ As we continue learning through real projects, this Flower Classification projec
 🧮 F1 Score
 
 🔍 Confusion Matrix analysis
+# what used in development ?
+1. 📁 Dataset Handling & Preprocessing
+split-folders:
+Used to automatically split the dataset (flower_images) into training and validation sets while preserving class folders.
 
+python
+Copy
+Edit
+splitfolders.ratio("flower_images", output="flowers_split", seed=1337, ratio=(.8, .2))
+ImageDataGenerator (tensorflow.keras.preprocessing.image)
+For real-time data augmentation and loading of images during training.
+
+PIL (Python Imaging Library)
+Used internally by Keras for image processing (e.g., resizing, loading images).
+
+2. 🧰 Model Development
+TensorFlow / Keras:
+Main deep learning library used for defining, training, and saving the Convolutional Neural Network.
+
+CNN Architecture:
+Built using Keras Sequential API with layers like:
+
+Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+
+Model Saving:
+
+Saved using .h5 or recommended .keras format
+
+model.save("model_name.h5") or model.save("model_name.keras")
+
+3. 📊 Evaluation
+matplotlib:
+For visualizing training/validation accuracy and loss.
+
+sklearn.metrics:
+For computing the confusion matrix and evaluating model performance on the test set.
+
+4. 🧪 Testing & Prediction
+numpy:
+For array manipulation when loading test images.
+
+tensorflow.keras.preprocessing.image:
+For manually loading and preprocessing a single test image using:
+
+python
+Copy
+Edit
+image.load_img(), image.img_to_array(), np.expand_dims(), etc.
+5. 🌐 User Interface
+Gradio:
+Used to build a simple web interface where users can upload an image and get the predicted flower class.
+
+Features: File Upload, Live Prediction, Easy Web UI Integration
 ## 📁 Included Files
 CNN_FLOWER_CLASSIFICATION.ipynb – Main notebook with full model implementation
 📥 Dataset (1000+ images per class):
 ⬇️ Download from Google Drive(https://drive.google.com/file/d/1ZuMforenbdcq3rLNa9itBawdZNqk-PCY/view?usp=sharing)
+
 
 ## 💻 How to Run This Notebook Locally
 
